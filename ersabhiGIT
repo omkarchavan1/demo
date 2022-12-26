@@ -1,0 +1,23 @@
+[33mcommit f64cf29dd4af039e68403ff17b0a4a13958b19aa[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: omkarChavan <omkarchavan396@gmail.com>
+Date:   Mon Dec 26 16:10:00 2022 +0530
+
+    deleted  file1.java
+
+[33mcommit 1652f7fa25fd48da2604b1afbecf30cd62259117[m
+Author: omkarChavan <omkarchavan396@gmail.com>
+Date:   Mon Dec 26 16:01:13 2022 +0530
+
+    changed to file1.java
+
+[33mcommit 5099a224db70a46e5bfa85095778bfad49d2eb40[m
+Author: omkarChavan <omkarchavan396@gmail.com>
+Date:   Mon Dec 26 15:50:57 2022 +0530
+
+    modified file1.java
+
+[33mcommit b7e049dc0420cb6fd709aebde67e174b97b61d41[m
+Author: omkarChavan <omkarchavan396@gmail.com>
+Date:   Mon Dec 26 15:40:14 2022 +0530
+
+    initial commit

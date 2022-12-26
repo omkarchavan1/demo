@@ -1,0 +1,47 @@
+Microsoft Windows [Version 10.0.22621.963]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Program Files\Git>git --version
+git version 2.39.0.windows.2
+
+C:\Program Files\Git>git config --global user.name "omkar"
+
+C:\Program Files\Git>git config --global user.name "omkarChavan"
+
+C:\Program Files\Git>git config --global user.name "omkarchavan396@gmail.com"
+
+C:\Program Files\Git>git config --global user.name
+omkarchavan396@gmail.com
+
+C:\Program Files\Git>git config --global user.email "omkarchavan396@gmail.com"
+
+C:\Program Files\Git>git config --global user.email
+omkarchavan396@gmail.com
+
+C:\Program Files\Git>git config --global user.name
+omkarchavan396@gmail.com
+
+C:\Program Files\Git>git config --global user.name "omkarChavan"
+
+C:\Program Files\Git>git config --global user.name
+omkarChavan
+
+C:\Program Files\Git>git config --list
+diff.astextplain.textconv=astextplain
+filter.lfs.clean=git-lfs clean -- %f
+filter.lfs.smudge=git-lfs smudge -- %f
+filter.lfs.process=git-lfs filter-process
+filter.lfs.required=true
+http.sslbackend=openssl
+http.sslcainfo=C:/Program Files/Git/mingw64/ssl/certs/ca-bundle.crt
+core.autocrlf=true
+core.fscache=true
+core.symlinks=false
+pull.rebase=false
+credential.helper=manager
+credential.https://dev.azure.com.usehttppath=true
+init.defaultbranch=master
+user.name=omkarChavan
+user.email=omkarchavan396@gmail.com
+
+C:\Program Files\Git>
